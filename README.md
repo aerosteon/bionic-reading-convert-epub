@@ -1,4 +1,4 @@
-# byonic-reading-convert-epub
+# bionic-reading-convert-epub
 
 # Credit to https://github.com/celina-lopez/bionic-reading-py for the original I moddified to suit my needs
 
