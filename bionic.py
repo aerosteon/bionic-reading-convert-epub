@@ -1,4 +1,4 @@
-# Credit to https://github.com/celina-lopez/bionic-reading-py for the original I moddified to suit my needs
+# Credit to https://github.com/celina-lopez/bionic-reading-py for the original I modified to suit my needs
 import ebooklib
 from ebooklib import epub
 from bs4 import BeautifulSoup
