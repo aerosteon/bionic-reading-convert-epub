@@ -6,10 +6,10 @@
 
 # also install...
 
-sudo apt-get update
-sudo apt-get install python3-pip
-pip install ebooklib
-pip install beautifulsoup4
+# sudo apt-get update
+# sudo apt-get install python3-pip
+# pip install ebooklib
+# pip install beautifulsoup4
 
 # uncomment the last 2 lines in the script, replace path to file with your file location. It will output the modded file to the same place
 
